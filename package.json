@@ -2,7 +2,8 @@
   "scripts": {
     "template-pattern": "npx esno design-patterns/template-pattern.ts",
     "strategy-pattern": "npx esno design-patterns/strategy-pattern.ts",
-    "chain-of-responsibility-pattern": "npx esno design-patterns/chain-of-responsibility-pattern.ts"
+    "chain-of-responsibility-pattern": "npx esno design-patterns/chain-of-responsibility-pattern.ts",
+    "observer-pattern": "npx esno design-patterns/observer-pattern.ts"
   },
   "name": "typescript",
   "version": "0.0.0",
