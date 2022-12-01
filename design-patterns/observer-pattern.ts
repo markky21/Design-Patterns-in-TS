@@ -36,7 +36,7 @@ class ConcreteSubject<T> implements Subject<T> {
 }
 
 /*
- * Usage
+ * Usage2
  */
 
 const subject: Subject<string> = new ConcreteSubject<string>();
