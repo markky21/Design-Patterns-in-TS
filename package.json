@@ -2,10 +2,11 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
-    "template-pattern": "npx esno design-patterns/template-pattern.ts",
-    "strategy-pattern": "npx esno design-patterns/strategy-pattern.ts",
-    "chain-of-responsibility-pattern": "npx esno design-patterns/chain-of-responsibility-pattern.ts",
-    "observer-pattern": "npx esno design-patterns/observer-pattern.ts",
+    "template-pattern": "npx esno design-patterns/behavioural/template-pattern.ts",
+    "strategy-pattern": "npx esno design-patterns/behavioural/strategy-pattern.ts",
+    "chain-of-responsibility-pattern": "npx esno design-patterns/behavioural/chain-of-responsibility-pattern.ts",
+    "observer-pattern": "npx esno design-patterns/behavioural/observer-pattern.ts",
+    "builder-pattern": "npx esno design-patterns/creational/builder-pattern.ts",
     "functional-architecture:before": "npx esno concepts/functional-architecture/before-usage.ts",
     "functional-architecture:after": "npx esno concepts/functional-architecture/after-usage.ts"
   },
