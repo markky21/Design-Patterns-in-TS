@@ -3,6 +3,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "behavioural--chain-of-responsibility-pattern": "npx esno design-patterns/behavioural/chain-of-responsibility-pattern.ts",
+    "behavioural--decorator-pattern": "npx esno design-patterns/behavioural/decorator-pattern.ts",
     "behavioural--observer-pattern": "npx esno design-patterns/behavioural/observer-pattern.ts",
     "behavioural--strategy-pattern": "npx esno design-patterns/behavioural/strategy-pattern.ts",
     "behavioural--template-pattern": "npx esno design-patterns/behavioural/template-pattern.ts",
