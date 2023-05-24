@@ -7,10 +7,11 @@
     "behavioural--observer-pattern": "npx esno design-patterns/behavioural/observer-pattern.ts",
     "behavioural--strategy-pattern": "npx esno design-patterns/behavioural/strategy-pattern.ts",
     "behavioural--template-pattern": "npx esno design-patterns/behavioural/template-pattern.ts",
-    "creational--builder-pattern": "npx esno design-patterns/creational/builder-pattern.ts",
+    "creational--builder-pattern": "npx  design-patterns/creational/builder-pattern.ts",
     "creational--abstract-factory-pattern": "npx esno design-patterns/creational/abstract-factory-pattern.ts",
     "creational--factory-method-pattern": "npx esno design-patterns/creational/factory-method-pattern.ts",
     "structural--composite-pattern": "npx esno design-patterns/structural/composite-pattern.ts",
+    "structural--bridge-pattern": "npx esno design-patterns/structural/bridge-pattern.ts",
     "other--functional-architecture:after": "npx esno concepts/functional-architecture/after-usage.ts",
     "other--functional-architecture:before": "npx esno concepts/functional-architecture/before-usage.ts"
   },
